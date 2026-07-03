@@ -1,4 +1,4 @@
-# RegiFarm Pro — Release pubbliche
+# RegiFarm — Release pubbliche
 
 Repository **solo per installer** e auto-update di RegiFarm Pro.
 
